@@ -11,5 +11,5 @@
 public class Operaciones {
     
     // Escribir aqui las operaciones
-    System.out.println("Todas");
+  
 }
